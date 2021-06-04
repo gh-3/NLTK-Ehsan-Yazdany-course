@@ -1,0 +1,7 @@
+print("Salam1")
+print("Salam2")
+print("Salam3")
+print("Salam4")
+print("Salam5")
+name =input("Enter your name")
+print("salam " + name)
